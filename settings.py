@@ -1,12 +1,8 @@
 valid_email = "testqatestovich@yandex.ru"
-valid_password = "yitulado"
+valid_password = "mgX-HCu-s5Q-8b2"
 
-valid_date = "2020-01-01"
-valid_paid = ""
-valid_userId = 123
-valid_includeLessons = ""
-valid_includeBills = ""
-valid_includeUserSubscriptions = ""
-valid_limit = ""
-valid_offset = ""
-valid_sort = ""
+invalid_email1 = "invalidtest@yandex.ru"
+invalid_password1 = "mgX-HCu-s5Q-fgr"
+
+invalid_email2 = ""
+invalid_password2 = ""
